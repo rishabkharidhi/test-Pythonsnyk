@@ -16,3 +16,5 @@ pyttsx3
 webbrowser
 smtplib
 speech_recognition
+django>=4.2.21 # not directly required, pinned by Snyk to avoid a vulnerability
+python-socketio>=5.14.0 # not directly required, pinned by Snyk to avoid a vulnerability
